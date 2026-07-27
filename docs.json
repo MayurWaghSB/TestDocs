@@ -11,8 +11,8 @@
   "navigation": {
     "groups": [
       {
-        "group": "Get Started",
-        "pages": ["introduction"]
+        "group": "Client",
+        "pages": ["03-dashboard.md"]
       }
     ]
   }
