@@ -1,5 +1,13 @@
 {
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "TestDocs",
+  "theme": "mint",
   "navigation": [
-    "03-dashboard.md"
+    {
+      "group": "Getting Started",
+      "pages": [
+        "03-dashboard"
+      ]
+    }
   ]
 }
