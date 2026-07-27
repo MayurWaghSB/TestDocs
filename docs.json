@@ -12,7 +12,7 @@
     "groups": [
       {
         "group": "Client",
-        "pages": ["03-dashboard.md"]
+        "pages": []
       }
     ]
   }
