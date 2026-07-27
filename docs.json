@@ -1,13 +1,19 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "TestDocs",
   "theme": "mint",
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "03-dashboard"
-      ]
-    }
-  ]
+  "name": "Securityboat",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#55D799",
+    "dark": "#0D9373"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Get Started",
+        "pages": ["introduction"]
+      }
+    ]
+  }
 }
